@@ -1,0 +1,17 @@
+* {
+	background: #605e5c;
+}
+.container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+.star-rating {
+	margin-top: 5rem;
+}
+.star-rating span {
+	margin-right: 3px;
+}
+.star-rating .active {
+	color: #faff00;
+}
